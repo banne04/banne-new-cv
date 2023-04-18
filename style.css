@@ -1,0 +1,31 @@
+body{
+      background-color:#767979;
+padding-left: 50px;
+display:flex;
+align-items: center;
+justify-content: center;
+flex-direction:column;
+color:rgb(240, 168, 220);
+}
+   
+h1 {
+    color:#d76abf;
+
+}
+
+
+h3 {
+    color:#40b7e6;
+
+}
+  hr{
+    border-style:none;
+    border-color:rgb(234, 133, 183);
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 2px;
+  width: 10%;
+  }
+ *{
+    text-align: center;
+ }
